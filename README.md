@@ -12,10 +12,10 @@
 ### 🎓 About me
 
 - Master 1 student in **Economics, Data & Decision Science** at **SE2, Université Jean Monnet (Saint-Étienne)**
-- I turn raw data into decisions: cleaning, statistical modelling, forecasting and dashboards
-- Focus areas: **financial data, time series, econometrics, machine learning** and decision theory
-- Currently deepening: experimental design in economics, Bayesian statistics, ML for finance
-- 🔎 **Looking for:** a data science / quantitative analysis internship and collaborations on applied projects
+- I work on data cleaning, statistical modelling, forecasting and dashboards
+- Main interests: financial data, time series, econometrics, machine learning and decision theory
+- Currently learning: experimental design in economics, Bayesian statistics, machine learning for finance
+- Looking for an internship in data science or quantitative analysis
 
 ### 🛠️ Tech stack
 
@@ -35,31 +35,31 @@
 
 **Quantitative finance & risk**
 
-| Project | Question and result | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| [**portfolio-optimization-risk**](https://github.com/KlausKUEKOU/portfolio-optimization-risk) | Do optimized portfolios beat 1/N out of sample (2005 to 2018)? Min-variance cuts volatility by 28%; no VaR model passes Kupiec at 99% | Python, SciPy, Ledoit-Wolf |
-| [**garch-volatility-forecasting**](https://github.com/KlausKUEKOU/garch-volatility-forecasting) | GJR-GARCH-t is the best S&P 500 volatility forecaster (Diebold-Mariano p < 0.001): the leverage effect drives the gain | Python, arch, statsmodels |
-| [**graph-systemic-risk-networkx**](https://github.com/KlausKUEKOU/graph-systemic-risk-networkx) | Correlation network of 10 global banks: Deutsche Bank bridges the core and the periphery | Python, NetworkX |
+| [**portfolio-optimization-risk**](https://github.com/KlausKUEKOU/portfolio-optimization-risk) | Backtest 2005 to 2018 of 4 portfolios and 5 VaR models. Minimum variance has 28% less volatility than 1/N | Python, SciPy, Ledoit-Wolf |
+| [**garch-volatility-forecasting**](https://github.com/KlausKUEKOU/garch-volatility-forecasting) | GARCH, GJR and EGARCH on the S&P 500. GJR-GARCH-t gives the best out-of-sample forecasts | Python, arch |
+| [**graph-systemic-risk-networkx**](https://github.com/KlausKUEKOU/graph-systemic-risk-networkx) | Correlation network of 10 global banks and shock simulation | Python, NetworkX |
 
 **African economies & spatial economics**
 
-| Project | Question and result | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| [**brvm-uemoa-macro-finance**](https://github.com/KlausKUEKOU/brvm-uemoa-macro-finance) | CFA membership lowers inflation by 11 points vs neighbours (year FE, clustered SE); BRVM was predictable before 2011 | Python, statsmodels |
-| [**cameroon-highway-network**](https://github.com/KlausKUEKOU/cameroon-highway-network) | A least-cost highway network à la Faber (2014): 2/3 of it follows today's roads; terrain-blind planning costs 75% more | Python, GeoPandas, scikit-image |
-| [**time-series-econometrics-r**](https://github.com/KlausKUEKOU/time-series-econometrics-r) | ADF/KPSS, ARIMA forecasting of the CAC 40, ARDL unemployment-inflation dynamics | R |
+| [**brvm-uemoa-macro-finance**](https://github.com/KlausKUEKOU/brvm-uemoa-macro-finance) | Inflation 11 points lower in CFA countries than in their neighbours; efficiency tests of the BRVM | Python, statsmodels |
+| [**cameroon-highway-network**](https://github.com/KlausKUEKOU/cameroon-highway-network) | Least-cost highway network for Cameroon (Faber, 2014), with Dijkstra and Kruskal written by hand | Python, GeoPandas |
+| [**time-series-econometrics-r**](https://github.com/KlausKUEKOU/time-series-econometrics-r) | ADF and KPSS tests, ARIMA forecasts of the CAC 40, ARDL model of unemployment and inflation | R |
 
 **AI, NLP & decision science**
 
-| Project | Question and result | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| [**llm-matching**](https://github.com/KlausKUEKOU/llm-matching) | LLM elicitation + Gale-Shapley gives a stable matching; letting the LLM assign directly breaks priorities | Python, LLM APIs |
-| [**nlp-projects**](https://github.com/KlausKUEKOU/nlp-projects) | Tokenization benchmark (81.5% accuracy), text clustering, WhatsApp forum sentiment with BERT | Python, scikit-learn, spaCy, Transformers |
-| [**StudECO_AI**](https://github.com/KlausKUEKOU/StudECO_AI) | Agent that turns economics papers and courses into structured, fact-checked summaries | Python, Qwen, Streamlit |
+| [**llm-matching**](https://github.com/KlausKUEKOU/llm-matching) | LLM reads motivation letters, Gale-Shapley assigns the seats; compared with a direct LLM assignment | Python, LLM APIs |
+| [**nlp-projects**](https://github.com/KlausKUEKOU/nlp-projects) | Tokenization benchmark, text clustering, sentiment of a WhatsApp forum with BERT | Python, scikit-learn, spaCy, Transformers |
+| [**StudECO_AI**](https://github.com/KlausKUEKOU/StudECO_AI) | Agent that summarises economics papers and courses with a fixed template and checks the summary | Python, Qwen, Streamlit |
 
 **Data analysis & dashboards**
 
-| Project | What it does | Stack |
+| Project | Description | Stack |
 |---|---|---|
 | [**ecommerce-scraping-dashboard**](https://github.com/KlausKUEKOU/ecommerce-scraping-dashboard) | Scrapes 5 e-commerce sites and compares prices, promotions and ratings | Python, BeautifulSoup, Streamlit |
 | [**world-population-dashboard**](https://github.com/KlausKUEKOU/world-population-dashboard) | Interactive dashboard of global demographic trends and migration flows | R, Flexdashboard, Leaflet |
@@ -77,4 +77,4 @@
 
 ### 📫 Let's connect
 
-I'm always happy to talk about data, finance and economics. Reach me on [LinkedIn](https://www.linkedin.com/in/klaus-kuekou-217bba173) or by [email](mailto:kfkwconcept@gmail.com).
+Contact me on [LinkedIn](https://www.linkedin.com/in/klaus-kuekou-217bba173) or by [email](mailto:kfkwconcept@gmail.com).

@@ -1,11 +1,80 @@
-- 👋 Hi, I’m @KlausKUEKOU, i'm a Statistical Analyst & Data scientist
-- I’m interested by ML, AI applications and Decision Theory, particularly in the fields of finance, automation, and creativity.
-- I’m currently learning Design of economic, Statistics and Data Science 
-- I’m looking to collaborate On innovative projects, whether to solve complex problems or explore new ideas.
-- 📫 How to reach me : you can send me a message on GitHub, via my email: kfkwconcept@gmail.com or on LinkdIn : www.linkedin.com/in/klaus-kuekou-217bba173
+<h1 align="center">Hi, I'm Klaus KUEKOU 👋</h1>
+<h3 align="center">Data Scientist & Statistical Analyst · Economics, Finance & Decision Science</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/klaus-kuekou-217bba173"><img src="https://img.shields.io/badge/LinkedIn-Klaus%20KUEKOU-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kfkwconcept@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-Internship%20%7C%20Collaboration-2ea44f?style=for-the-badge" />
+</p>
 
-<!---
-KlausKUEKOU/KlausKUEKOU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🎓 About me
+
+- Master 1 student in **Economics, Data & Decision Science** at **SE2, Université Jean Monnet (Saint-Étienne)**
+- I turn raw data into decisions: cleaning, statistical modelling, forecasting and dashboards
+- Focus areas: **financial data, time series, econometrics, machine learning** and decision theory
+- Currently deepening: experimental design in economics, Bayesian statistics, ML for finance
+- 🔎 **Looking for:** a data science / quantitative analysis internship and collaborations on applied projects
+
+### 🛠️ Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,vscode,latex&theme=light" />
+</p>
+
+| Domain | Tools |
+|---|---|
+| Analysis & econometrics | Python (pandas, NumPy, statsmodels, SciPy, arch), R (tidyverse, forecast, tseries) |
+| Networks & spatial | NetworkX, GeoPandas, rasterio, Leaflet |
+| Machine learning & AI | scikit-learn, XGBoost, Transformers, LLM APIs (Claude, Qwen) |
+| Visualisation & dashboards | Matplotlib, Seaborn, Plotly, Power BI, R Shiny / R Markdown |
+| Data | SQL, Excel, Jupyter |
+
+### 📌 Projects
+
+**Quantitative finance & risk**
+
+| Project | Question and result | Stack |
+|---|---|---|
+| [**portfolio-optimization-risk**](https://github.com/KlausKUEKOU/portfolio-optimization-risk) | Do optimized portfolios beat 1/N out of sample (2005 to 2018)? Min-variance cuts volatility by 28%; no VaR model passes Kupiec at 99% | Python, SciPy, Ledoit-Wolf |
+| [**garch-volatility-forecasting**](https://github.com/KlausKUEKOU/garch-volatility-forecasting) | GJR-GARCH-t is the best S&P 500 volatility forecaster (Diebold-Mariano p < 0.001): the leverage effect drives the gain | Python, arch, statsmodels |
+| [**graph-systemic-risk-networkx**](https://github.com/KlausKUEKOU/graph-systemic-risk-networkx) | Correlation network of 10 global banks: Deutsche Bank bridges the core and the periphery | Python, NetworkX |
+
+**African economies & spatial economics**
+
+| Project | Question and result | Stack |
+|---|---|---|
+| [**brvm-uemoa-macro-finance**](https://github.com/KlausKUEKOU/brvm-uemoa-macro-finance) | CFA membership lowers inflation by 11 points vs neighbours (year FE, clustered SE); BRVM was predictable before 2011 | Python, statsmodels |
+| [**cameroon-highway-network**](https://github.com/KlausKUEKOU/cameroon-highway-network) | A least-cost highway network à la Faber (2014): 2/3 of it follows today's roads; terrain-blind planning costs 75% more | Python, GeoPandas, scikit-image |
+| [**time-series-econometrics-r**](https://github.com/KlausKUEKOU/time-series-econometrics-r) | ADF/KPSS, ARIMA forecasting of the CAC 40, ARDL unemployment-inflation dynamics | R |
+
+**AI, NLP & decision science**
+
+| Project | Question and result | Stack |
+|---|---|---|
+| [**llm-matching**](https://github.com/KlausKUEKOU/llm-matching) | LLM elicitation + Gale-Shapley gives a stable matching; letting the LLM assign directly breaks priorities | Python, LLM APIs |
+| [**nlp-projects**](https://github.com/KlausKUEKOU/nlp-projects) | Tokenization benchmark (81.5% accuracy), text clustering, WhatsApp forum sentiment with BERT | Python, scikit-learn, spaCy, Transformers |
+| [**StudECO_AI**](https://github.com/KlausKUEKOU/StudECO_AI) | Agent that turns economics papers and courses into structured, fact-checked summaries | Python, Qwen, Streamlit |
+
+**Data analysis & dashboards**
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**ecommerce-scraping-dashboard**](https://github.com/KlausKUEKOU/ecommerce-scraping-dashboard) | Scrapes 5 e-commerce sites and compares prices, promotions and ratings | Python, BeautifulSoup, Streamlit |
+| [**world-population-dashboard**](https://github.com/KlausKUEKOU/world-population-dashboard) | Interactive dashboard of global demographic trends and migration flows | R, Flexdashboard, Leaflet |
+| [**r-statistical-projects**](https://github.com/KlausKUEKOU/r-statistical-projects) | PCA of French cities, fertility rate regression, Shiny evaluation app | R, Shiny |
+| [**sales-data-cleaning-analysis**](https://github.com/KlausKUEKOU/sales-data-cleaning-analysis) | Data quality audit, outlier handling and customer behaviour analysis | Python, pandas |
+
+📄 [Download my CV](CV_Klaus_KUEKOU.pdf)
+
+### 📊 GitHub stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KlausKUEKOU&show_icons=true&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlausKUEKOU&layout=compact&hide_border=true" />
+</p>
+
+### 📫 Let's connect
+
+I'm always happy to talk about data, finance and economics. Reach me on [LinkedIn](https://www.linkedin.com/in/klaus-kuekou-217bba173) or by [email](mailto:kfkwconcept@gmail.com).

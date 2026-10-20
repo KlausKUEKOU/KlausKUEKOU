@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Klaus KUEKOU 👋</h1>
-<h3 align="center"> Statistical-Economist & Data Scientist · Economics, Finance & Decision Science</h3>
+<h3 align="center"> Statistician-Economist & Data Scientist · Economics, Finance & Decision Science</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/klaus-kuekou-217bba173"><img src="https://img.shields.io/badge/LinkedIn-Klaus%20KUEKOU-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
